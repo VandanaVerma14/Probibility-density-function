@@ -10,7 +10,7 @@ Estimate the parameters of a probability density function using a roll-number-ba
 1. From the dataset selected no2 values.
 2. Applied non-linear transformation:
    z = x + 0.30 sin(1.5x)  
-   (Roll No: 102303704)
+   (Roll No: 102303443)
 3. Modeled transformed data using:
    p̂(z) = c · exp(−λ(z − μ)²)
 4. Estimated μ, λ, and c using statistical moments.
